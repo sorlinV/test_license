@@ -1,2 +1,4 @@
 # test_license
-The unlicense
+for launch Z.sh: 
+$ `chmod x+ Z.sh`
+$ `./Z.sh`
